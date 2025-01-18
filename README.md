@@ -20,16 +20,14 @@ I’m a Full-Stack Developer with expertise in Java Spring Boot and the MERN sta
 
 ## Skills & Technologies
 
-js,react,tailwind,bootstrap,html,css,nodejs,vscode,git,github,spring,mysql,mongodb
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,html,css,nodejs,vscode,git,github,spring,mysql,mongodb&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
-
 🔹 Public Repositories: 10
-
 🔹 Followers: 2
-
 🔹 Following: 0
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkulaVishnuVardhanReddy&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akulavishnuvardhanreddy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Recent Activity
 
@@ -42,6 +40,17 @@ js,react,tailwind,bootstrap,html,css,nodejs,vscode,git,github,spring,mysql,mongo
 🛠 Currently Working On:
 
 A Receipt Printing Feature for payments using NPM packages and Bootstrap 4.
+
+## 📫 Connect with Me
+
+Let’s build something amazing together! You can reach me through any of the following platforms:
+
+🌐 [LinkedIn](https://www.linkedin.com/in/akulavishnuvardhanreddy/) – Let’s connect professionally and share ideas!
+
+✉️ Email: akulavishnuvardhanrdy@gmail.com – Feel free to reach out for collaborations or inquiries.
+
+🌍 [Portfolio Website](https://vishnu-portfolio-f1bg.onrender.com/): Check out my latest projects and contributions.
+
 
 ## 🎤 My Talks
 
@@ -57,12 +66,3 @@ Feel free to reach out if you’d like me to speak at your event or webinar! I�
 
 
 
-## 📫 Connect with Me
-
-Let’s build something amazing together! You can reach me through any of the following platforms:
-
-🌐 [LinkedIn](https://www.linkedin.com/in/akulavishnuvardhanreddy/) – Let’s connect professionally and share ideas!
-
-✉️ Email: akulavishnuvardhanrdy@gmail.com – Feel free to reach out for collaborations or inquiries.
-
-🌍 [Portfolio Website](https://vishnu-portfolio-f1bg.onrender.com/): Check out my latest projects and contributions.
